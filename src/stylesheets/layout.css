@@ -1,0 +1,18 @@
+.menuNav {
+  width: 20%;
+  height: 50vh;
+}
+
+.dashSection {
+  width: 80%;
+  height: 50vh;
+}
+
+.menuNav, .dashSection {
+  margin-top: 4%;
+}
+
+.dashboard {
+  display: flex;
+  flex-flow: row nowrap;
+}
